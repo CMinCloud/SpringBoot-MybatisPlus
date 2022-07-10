@@ -1,2 +1,4 @@
 # SpringBoot-MybatisPlus
 黑马springboot网课学习小项目，springboot+MybatisPlus构建的一个书籍管理页面
+前端页面使用vue+elementUI模板构成，主要用于学习axios发送前端请求格式
+后端使用SpringBoot+Mybatis搭建，为主要学习内容。
